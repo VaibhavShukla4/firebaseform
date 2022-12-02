@@ -24,20 +24,3 @@ const Date = () => {
 };
 
 export default Date;
-// import "./styles.css";
-// import { useState } from "react";
-
-// export default function App() {
-//   const [dob, setDob] = useState({
-//     day:"",
-//     month:"",
-//     year:"",
-//   });
-//   // const [print, setprint] = useState(false);
-
-//   return (
-//     <div className="App">
-//       {print ? <h1>{dob}</h1> : null} <input type="date" onChange={getdata} />
-//     </div>
-//   );
-// }
